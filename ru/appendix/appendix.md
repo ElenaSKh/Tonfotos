@@ -1,0 +1,5 @@
+## [Требования к системе](requirements.md) 
+## [Поддержка RAW-файлов (CR2, DNG, NEF и т.п.)](RAW-files.md)
+## [Поддержка формата HEIC](HEIC-files.md)
+## [Принцип работы системы распознавания лиц](face_regognition.md)
+## [Горячие клавиши](shortcuts.md)
